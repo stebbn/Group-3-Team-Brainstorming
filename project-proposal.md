@@ -9,8 +9,8 @@
 | Member | GitHub username | Personal CSC181 repository |
 |---|---|---|
 | [Full name] | [Username] | [Repository link] |
-| Rey Mark E. Degamo | MarkCelesteria | [Repository link] |
 | [Full name] | [Username] | [Repository link] |
+| Brent Jehu Senica | HiraethAKR | https://github.com/HiraethAKR/Group-3-Team-Brainstorming |
 | [Full name] | [Username] | [Repository link] |
 
 <!-- Add rows for all members. -->
@@ -24,9 +24,7 @@ or an assumption.]
 | Member | Problem or inconvenience | Who experiences it? | Current approach | Basis of the idea |
 |---|---|---|---|---|
 | Steve Nash H. Llamedo | Getting around Iligan if you’re not familiar with the routes by heart can be a headache. For students, visitors or anyone else trying to get from one side of town to the other, choosing which jeepney or bus to catch, where to transfer and how much cash to bring is usually a matter of guesswork and asking around. Commuters waste time on the wrong rides, pay too much in fares and stress out on daily trips without clear, centralized information. | Commuters, Outsiders, Tourist | Relying on word-of-mouth recommendations, asking drivers or passersby for directions, manually estimating cash fares, and using trial-and-error to find transfer points. | The lack of a centralized, real-time public transit information system that unifies jeepney, bus, and train routes with accurate fare calculation in one accessible mobile platform. |
-| [Name] | [Idea 2] | [Group] | [Approach] | [Basis] |
-| Rey Mark | Downloads folder on phones and computers gets bloated with files, making a specific file hard to find | Students, office workers, and anyone who downloads documents, images, or installers often | Manually scrolling or searching by filename, and occasionally deleting files in bulk | Experience |
-| Rey Mark | The same item is sold at different prices across online shopping platforms, and comparing them takes a lot of manual effort | Online shoppers, especially students and budget-conscious buyers | Opening each platform separately and comparing prices, ratings, and seller reviews by hand | Experience and observation |
+| Brent Jehu Senica | Almost nobody reads Terms of Service. They’re long, full of legal language, and written in a way that’s hard to follow. So most people just click “I agree” and move on. The problem is that these contracts cover things that matter, like what the company does with your data, what rights you give up, how much you get charged, and whether you can cancel or get a refund. Users end up bound by agreements they never understood, and they only find out way after agreeing with the T&S. | Shoppers, Freelancers, Students, Seniors | Community projects like ToS;DR have volunteers summarize popular services, but they only cover well-known ones, and general AI chatbots can misstate clauses. Regulations like the GDPR and the Philippines’ Data Privacy Act require clear, informed consent, but enforcement is slow and companies can comply on paper while keeping the text hard to read. Some companies also add short summaries or data-sharing toggles, but this is voluntary and the full legal text still governs. What’s missing is a tool that works on any terms, cites the exact clause, supports local languages, and shows up at the moment of signing up. | This problem is well documented with multiple recent studies that touch upon the fact that nobody really reads the T&S. IF users are unable to understand the text, then consent is weak in practice. You cannot agree in something you do not understand. The users affected by these are vulnerable groups that need to be protected, which we can with the technology we have today. |
 
 ## 2. Candidate Comparison and Selection
 
