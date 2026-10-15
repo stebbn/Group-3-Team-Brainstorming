@@ -9,7 +9,7 @@
 | Member | GitHub username | Personal CSC181 repository |
 |---|---|---|
 | [Full name] | [Username] | [Repository link] |
-| [Full name] | [Username] | [Repository link] |
+| Rey Mark E. Degamo | MarkCelesteria | [Repository link] |
 | [Full name] | [Username] | [Repository link] |
 | [Full name] | [Username] | [Repository link] |
 
@@ -23,8 +23,8 @@ or an assumption.]
 
 | Member | Problem or inconvenience | Who experiences it? | Current approach | Basis of the idea |
 |---|---|---|---|---|
-| [Name] | [Idea 1] | [Group] | [Approach] | [Basis] |
-| [Name] | [Idea 2] | [Group] | [Approach] | [Basis] |
+| Rey Mark | Downloads folder on phones and computers gets bloated with files, making a specific file hard to find | Students, office workers, and anyone who downloads documents, images, or installers often | Manually scrolling or searching by filename, and occasionally deleting files in bulk | Experience |
+| Rey Mark | The same item is sold at different prices across online shopping platforms, and comparing them takes a lot of manual effort | Online shoppers, especially students and budget-conscious buyers | Opening each platform separately and comparing prices, ratings, and seller reviews by hand | Experience and observation |
 
 ## 2. Candidate Comparison and Selection
 
