@@ -23,7 +23,7 @@ or an assumption.]
 
 | Member | Problem or inconvenience | Who experiences it? | Current approach | Basis of the idea |
 |---|---|---|---|---|
-| [Name] | [Idea 1] | [Group] | [Approach] | [Basis] |
+| Steve Nash H. Llamedo | Getting around Iligan if you’re not familiar with the routes by heart can be a headache. For students, visitors or anyone else trying to get from one side of town to the other, choosing which jeepney or bus to catch, where to transfer and how much cash to bring is usually a matter of guesswork and asking around. Commuters waste time on the wrong rides, pay too much in fares and stress out on daily trips without clear, centralized information. | Commuters, Outsiders, Tourist | Relying on word-of-mouth recommendations, asking drivers or passersby for directions, manually estimating cash fares, and using trial-and-error to find transfer points. | The lack of a centralized, real-time public transit information system that unifies jeepney, bus, and train routes with accurate fare calculation in one accessible mobile platform. |
 | [Name] | [Idea 2] | [Group] | [Approach] | [Basis] |
 
 ## 2. Candidate Comparison and Selection
